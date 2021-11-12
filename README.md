@@ -1,2 +1,2 @@
 # MySeleniumProject
-This is my selenium project with implementing all the automation concepts with page object model desing pattern.
+This is my selenium project with implementing all the automation concepts with page object model desing pattern along with API integration.
